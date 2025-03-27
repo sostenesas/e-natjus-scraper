@@ -1,0 +1,5 @@
+selenium==4.18.1
+pdfplumber==0.11.0
+requests==2.31.0
+pandas==2.2.1
+webdriver-manager==4.0.1
