@@ -1,5 +1,9 @@
-selenium==4.18.1
-pdfplumber==0.11.0
-requests==2.31.0
-pandas==2.2.1
-webdriver-manager==4.0.1
+# e-NatJus Scraper
+Ferramenta para extrair notas técnicas do e-NatJus.
+
+## Dependências
+- Python 3.11
+- Pandas 2.1.3
+- Selenium 4.15.2
+- Requests 2.31.0
+- pdfplumber 0.11.0
