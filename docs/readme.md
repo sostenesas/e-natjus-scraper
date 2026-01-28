@@ -14,6 +14,5 @@ Este projeto é um web scraper em Python para extrair notas técnicas do e-NatJu
 
 ## Instalação
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/e-natjus-scraper.git
-   cd e-natjus-scraper
+git clone https://github.com/sostenesas/e-natjus-scraper.git
+cd e-natjus-scraper
